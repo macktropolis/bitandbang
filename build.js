@@ -25,8 +25,7 @@ const data = {
   github: chalk.gray("https://github.com/") + chalk.green("macktropolis"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("macktropolis"),
   web: chalk.cyan("https://mackrichardson.com"),
-  codepen:
-    chalk.cyan("https://codepen.io") + " " + chalk.white("mackorichardson"),
+  codepen: chalk.cyan("https://codepen.io/") + chalk.white("mackorichardson"),
   npx: chalk.red("npx") + " " + chalk.gray("macktropolis"),
   labelWork: chalk.white.bold("     Work:"),
   labelFacebook: chalk.white.bold(" Facebook:"),
