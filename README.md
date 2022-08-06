@@ -1,10 +1,14 @@
-Hi, I'm Mack!
+I'm Mack, a web/filemaker developer living the small town life in central North Carolina.
+
+This is my npm business card. Enjoy!
 
 # Usage
 
 ## npm
 
 ```
+npm i macktropolis
+
 npx macktropolis
 ```
 

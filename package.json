@@ -1,6 +1,6 @@
 {
   "name": "macktropolis",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A personal card for Mack Richardson (@macktropolis)",
   "main": "/bin/card.js",
   "bin": {
