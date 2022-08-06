@@ -1,6 +1,6 @@
 {
   "name": "macktropolis",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A personal card for Mack Richardson (@macktropolis)",
   "main": "/bin/card.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macktropolis/bitandbang.git"
+    "url": "git+https://github.com/macktropolis/my-business-card.git"
   },
   "homepage": "https://mackrichardson.com",
   "scripts": {
