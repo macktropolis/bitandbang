@@ -1,16 +1,16 @@
 {
-  "name": "bitandbang",
-  "version": "2.1.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "macktropolis",
+  "version": "1.0.0",
+  "description": "A personal card for Mack Richardson (@macktropolis)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/macktropolis/bitandbang.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://mackrichardson.com",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Mack Richardson <mack@mackrichardson.com> (https://mackrichardson.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
