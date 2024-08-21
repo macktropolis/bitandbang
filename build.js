@@ -17,16 +17,16 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white("   Mack Richardson"),
-  handle: chalk.white("macktropolis"),
-  shorthandle: chalk.white("mor"),
-  work: chalk.white("Web Developer at Qube Consulting"),
+  handle: chalk.cyan("macktropolis"),
+  title: chalk.gray("a FileMaker & Web Developer"),
+  work: chalk.gray("https://luminfire.com/about-us/our-brilliant-team/") + chalk.cyan("mack") + chalk.gray("/"),
   facebook: chalk.gray("https://facebook.com/") + chalk.cyan("macktropolis"),
   // npm: chalk.gray('https://npmjs.com/') + chalk.red('~bnb'),
-  github: chalk.gray("https://github.com/") + chalk.green("macktropolis"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("macktropolis"),
+  github: chalk.gray("https://github.com/") + chalk.cyan("macktropolis"),
+  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.cyan("macktropolis"),
   web: chalk.cyan("https://mackrichardson.com"),
-  codepen: chalk.cyan("https://codepen.io/") + chalk.white("mackorichardson"),
-  npx: chalk.red("npx") + " " + chalk.gray("macktropolis"),
+  codepen: chalk.gray("https://codepen.io/") + chalk.cyan("macktropolis"),
+  npx: chalk.red("npx") + " " + chalk.cyan("macktropolis"),
   labelWork: chalk.white.bold("     Work:"),
   labelFacebook: chalk.white.bold(" Facebook:"),
   labelCodepen: chalk.white.bold("  CodePen:"),
@@ -38,7 +38,7 @@ const data = {
 
 // Actual strings we're going to output
 const newline = "\n";
-const heading = `${data.name} / ${data.handle} / ${data.shorthandle}`;
+const heading = `${data.name} / ${data.handle} / ${data.title}`;
 const working = `${data.labelWork}  ${data.work}`;
 const facebooking = `${data.labelFacebook}  ${data.facebook}`;
 const penning = `${data.labelCodepen}  ${data.codepen}`;

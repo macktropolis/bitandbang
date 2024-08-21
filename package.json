@@ -37,6 +37,6 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "macktropolis": "^1.0.3"
+    "macktropolis": "^1.0.6"
   }
 }
