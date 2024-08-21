@@ -4,7 +4,7 @@
   "description": "A personal card for Mack Richardson (@macktropolis)",
   "main": "/bin/card.js",
   "bin": {
-    "macktropolis": "./bin/card.js"
+    "macktropolis": "bin/card.js"
   },
   "repository": {
     "type": "git",
