@@ -1,4 +1,4 @@
-I'm Mack, a web/filemaker developer living the small town life in central North Carolina.
+I'm Mack, a FileMaker & Web developer living the small town life in central North Carolina.
 
 This is my npm business card. Enjoy!
 
