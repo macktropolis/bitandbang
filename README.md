@@ -1,10 +1,12 @@
+# Mack Richardson's Business Card
+
 I'm Mack, a FileMaker & Web developer living the small town life in central North Carolina.
 
 This is my npm business card. Enjoy!
 
-# Usage
+## Usage
 
-## npm
+### npm
 
 ```
 npm i macktropolis
