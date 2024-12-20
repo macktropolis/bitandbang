@@ -6,17 +6,19 @@ This is my npm business card. Enjoy!
 
 ## Usage
 
+### npx (recommended)
+
+```
+npx macktropolis
+```
+
 ### npm
 
 ```
 npm i macktropolis
 ```
 
-### npx
-
-```
-npx macktropolis
-```
+_Not sure why you would want to do this, but you can._
 
 ## Credit
 
