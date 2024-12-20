@@ -1,6 +1,6 @@
 {
   "name": "macktropolis",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "The npm business card for Mack Richardson (@macktropolis)",
   "main": "/bin/card.js",
   "bin": {
