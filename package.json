@@ -1,7 +1,7 @@
 {
   "name": "macktropolis",
   "version": "2.0.0",
-  "description": "A personal card for Mack Richardson (@macktropolis)",
+  "description": "The npm business card for Mack Richardson (@macktropolis)",
   "main": "/bin/card.js",
   "bin": {
     "macktropolis": "bin/card.js"
