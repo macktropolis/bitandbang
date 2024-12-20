@@ -10,7 +10,11 @@ This is my npm business card. Enjoy!
 
 ```
 npm i macktropolis
+```
 
+### npx
+
+```
 npx macktropolis
 ```
 
